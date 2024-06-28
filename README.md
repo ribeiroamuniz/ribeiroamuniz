@@ -1,8 +1,17 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=ribeiroamuniz&color=ff69b4"><br>
 
-<div class="gif" align="center">
-<img align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_a1CaTZBPLipCaMddl44PcvoT8Odui7PoBelM9Eha_T1lF6kdKgyQ4UUTyNBAxHK-jmfoJXuLqmHHUjqmu1nWlAGPLbFFxi1O5InBLGw0yr-yvFs8n4egsORLvsfchvSMLlW93Q-70ds/s1600/kawaii-cute-fofo-anime-gif+%25287%2529.gif)" width="500">
+<div align="center">
+  <table>
+    <tr>
+      <td width="480"><img src="https://i.pinimg.com/originals/4d/67/0e/4d670e6307fb44c4d4b6d8d14a5661fa.gif"></td>
+      <td width="200"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHI5dXBsZmxtYnh3aG51bWR6M2p3cmx4cTVmbGNrajNuNTZ3bTFveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cPZdap8PGhSvABr6xW/giphy.webp"></td>
+      <td width="500"><img src="https://wallpapers-clan.com/wp-content/uploads/2024/03/nyan-cat-meme-gif-desktop-wallpaper-preview.gif"></td>
+    </tr>
+  </table>
 </div>
+
+
+
 <div align="center">
   <!-- Work Links -->
   <a href="https://github.com/ribeiroamuniz" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -12,7 +21,6 @@
   <a href="https://instagram.com/amunizig" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <BR>
   <BR>
-  <BR>
 </div>
 
 <div align="center">
@@ -20,10 +28,10 @@
 </div>
 <div align="center">
   <!-- Python --> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge">
   <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <!-- Json --> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
   <!-- Postman --> <img src="https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=Postman&logoColor=white">
-  <!-- SQL --> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   <!-- Arduino --> <img src="https://img.shields.io/badge/Arduino-00979C?style=for-the-badge&logo=Arduino&logoColor=white">
   <br>
 </div>
